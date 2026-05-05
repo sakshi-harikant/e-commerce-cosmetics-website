@@ -1,14 +1,3 @@
-<img width="1363" height="570" alt="img9" src="https://github.com/user-attachments/assets/7326f5d7-c1b8-414b-a380-bebd7f83032c" />
-<img width="1332" height="558" alt="img8" src="https://github.com/user-attachments/assets/be3d98cc-cebc-42ea-bc59-881031623f71" />
-<img width="1354" height="577" alt="img7" src="https://github.com/user-attachments/assets/6433878e-6c9c-43ce-bf01-608533955353" />
-<img width="1324" height="570" alt="img6" src="https://github.com/user-attachments/assets/e921b1d5-645c-4050-95e1-db44cc83b2f1" />
-<img width="1231" height="558" alt="img5" src="https://github.com/user-attachments/assets/e6963b07-007d-4a41-8df1-27bfd449ba4f" />
-<img width="1345" height="630" alt="img4" src="https://github.com/user-attachments/assets/aae723bf-586f-493c-b317-7cf047ad854f" />
-<img width="1355" height="631" alt="img3" src="https://github.com/user-attachments/assets/4b848702-57ec-4264-b44f-29ef960b7057" />
-<img width="1331" height="551" alt="img2" src="https://github.com/user-attachments/assets/eb49971f-8651-4a1e-8fa7-73c1ef0cb304" />
-<img width="1342" height="554" alt="img1" src="https://github.com/user-attachments/assets/e62ad91e-5dc1-4252-a088-11d6d865857c" />
-
-
 # E-Commerce Cosmetics Website - UNLEASH
 
 ## 📌 Project Overview
@@ -63,3 +52,23 @@
 
 ## 👨‍💻 Author
 Sakshi Mohan Harikant
+
+<img width="1342" height="554" alt="img1" src="https://github.com/user-attachments/assets/80cef83d-c679-453b-b540-9e7166f88421" />
+
+<img width="1331" height="551" alt="img2" src="https://github.com/user-attachments/assets/35f15e42-9b6a-4237-b17e-629d365ef78b" />
+
+<img width="1355" height="631" alt="img3" src="https://github.com/user-attachments/assets/581ad5a1-82a0-4c73-9d12-7d0f50712bbd" />
+
+<img width="1345" height="630" alt="img4" src="https://github.com/user-attachments/assets/638a079f-1983-4676-a3b8-bdb9656b8dec" />
+
+<img width="1231" height="558" alt="img5" src="https://github.com/user-attachments/assets/486988f2-0c16-499f-a9cc-6b9e5afdd222" />
+
+<img width="1324" height="570" alt="img6" src="https://github.com/user-attachments/assets/f9f32e2c-8082-440e-bbe5-87241a0e0857" />
+
+<img width="1354" height="577" alt="img7" src="https://github.com/user-attachments/assets/b1ed3045-9bca-4248-9a0d-f45365d092b6" />
+
+<img width="1332" height="558" alt="img8" src="https://github.com/user-attachments/assets/21e4075f-7272-4eef-a0e2-e1441b72832d" />
+
+<img width="1363" height="570" alt="img9" src="https://github.com/user-attachments/assets/e3f01c03-1702-4b15-8446-4d623cb18f96" />
+
+
