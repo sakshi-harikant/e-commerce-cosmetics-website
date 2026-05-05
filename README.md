@@ -1,18 +1,5 @@
-![Homepage](https://github.com/user-attachments/assets/12dbcdc0d-f4c7-44c5-973e-e17793859bdb)
+<img width="1342" height="554" alt="img1" src="https://github.com/user-attachments/assets/4c2032fd-c12b-4d3a-a318-a3e19cb653cd" />
 
-![Products](https://github.com/user-attachments/assets/e578796f-2603-4c88-a3f2-87feeec5928)
-
-![Cart](https://github.com/user-attachments/assets/3135e39d-5c7e-42e7-8765-7a95802906398)
-
-![Checkout](https://github.com/user-attachments/assets/98872c5e-54a9-4ad4-aeeb-7cc28006761b)
-
-![Payment](https://github.com/user-attachments/assets/4318ed9b-e739-4132-9d9a-818cde3421aa)
-
-![Order Confirmation](https://github.com/user-attachments/assets/c045636a-bab0b-4a7d-bd25-29ca82d27d24)
-
-![Admin Dashboard](https://github.com/user-attachments/assets/fcd05a14-da8e-4594-8724-319be6ba721e)
-
-![Products Management](https://github.com/user-attachments/assets/9358d821-2c96-4120-8326-c91894a84370)
 # E-Commerce Cosmetics Website - UNLEASH
 
 ## 📌 Project Overview
